@@ -1,1 +1,2 @@
 # Portfolio
+I am a dedicated computer science student at Towson University, currently in my third year. With a strong academic foundation in programming languages like Java, JavaScript, Python and C++, as well as skills in web design. I am passionate about technology and its applications in web development. I have hands-on experience in leadership roles, demonstrating strong problem-solving abilities, teamwork, and a commitment to continuous learning. I’m eager to apply my knowledge and skills to real-world challenges in the tech industry.
